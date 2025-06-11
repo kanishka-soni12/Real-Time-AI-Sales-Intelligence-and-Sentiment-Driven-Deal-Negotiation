@@ -5,6 +5,7 @@ Experience the future of intelligent, adaptive sales with real-time buyer insigh
 🚀 Overview
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -The Real-Time AI Sales Intelligence and Sentiment-Driven Deal Negotiation Assistant is a cutting-edge AI tool that transforms how sales teams interact with prospects. 
+
 -It enhances sales calls by analyzing buyer sentiment, tone, and intent in real time — enabling smarter negotiations, personalized deal recommendations, and data-driven follow-ups.
 
 🎯 Features
